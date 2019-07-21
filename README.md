@@ -1,1 +1,1 @@
-# django_firstapp
+### First Django app - In progress.
