@@ -26,17 +26,20 @@ In the project I used the Linux system for the first time. Linux Mint distributi
   - PyCharm Ide
 
 #### Install
+```
+git clone https://github.com/Mateuszto/DjangoFirstProject.git
+```
+#### Configuration
 ```terminal
 cd DjangoFirstProject
 python3.6 -mvenv venv   
 source venv/bin/activate 
 
-python manage.py runserver
-
 Install the packages shown in the error in the console - My bad next time I will create requirements file
 ```
-
+#### Run
 ```sh
+python manage.py runserver
 127.0.0.1:8000
 ```
 
