@@ -6,6 +6,18 @@ In the project I used the Linux system for the first time. Linux Mint distributi
 
 <h2><a href="https://www.youtube.com/user/schafer5">Corey Schafer</a></h2>
 
+#### Features
+  - Login/Logout & Register
+  - Profile view:
+    - Profile picture
+    - Change username, password, mail
+  - Add posts:
+    - Edit posts & delete
+  - Single post view
+  - Posts view of single user
+  - Pagination
+  
+  
 #### Stack:
   - Python / Django
   - Bootstrap
