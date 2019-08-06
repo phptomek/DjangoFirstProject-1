@@ -1,1 +1,1 @@
-### First Django app - In progress.
+### Create own blog in Django - My first Django website
