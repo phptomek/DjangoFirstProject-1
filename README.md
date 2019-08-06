@@ -12,7 +12,7 @@ In the project I used the Linux system for the first time. Linux Mint distributi
   - PyCharm Ide
 
 #### Install
-```console
+```terminal
 cd DjangoFirstProject
 python3.6 -mvenv venv   
 source venv/bin/activate 
