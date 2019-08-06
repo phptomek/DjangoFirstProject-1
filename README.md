@@ -20,6 +20,7 @@ source venv/bin/activate
 python manage.py runserver
 
 Install the packages shown in the error in the console - My bad next time I will create requirements file
+```
 
 ```sh
 127.0.0.1:8000
