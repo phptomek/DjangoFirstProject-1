@@ -4,6 +4,8 @@
 The first project created in the django framework, with help of Corey Schafer tutorial.   
 In the project I used the Linux system for the first time. Linux Mint distribution
 
+<h2><a href="https://www.youtube.com/user/schafer5">Corey Schafer</a></h2>
+
 #### Stack:
   - Python / Django
   - Bootstrap
