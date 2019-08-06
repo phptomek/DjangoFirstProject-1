@@ -1,7 +1,17 @@
-### Create your own blog in Django - My first Django website
+## Create your own blog in Django - My first Django website
 ###### August 2019
 
-##### Install - Linux
+The first project created in the django framework, with help of Corey Schafer tutorial.   
+In the project I used the Linux system for the first time. Linux Mint distribution
+
+#### Stack:
+  - Python / Django
+  - Bootstrap
+  - Linux
+  - Git
+  - PyCharm Ide
+
+#### Install
 ```
 cd DjangoFirstProject
 python3.6 -mvenv venv   
