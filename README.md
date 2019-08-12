@@ -1,4 +1,4 @@
-## Create your own blog in Django - My first Django website
+## Create your own blog - My first Django website
 ###### August 2019
 
 The first project created in the django framework, with help of Corey Schafer tutorial.   
